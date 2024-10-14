@@ -1,0 +1,84 @@
+{
+  "event_id": "0994de67-fce9-4c69-8315-bdfa9ee031a9",
+  "source_id": "888b7c88-d115-443e-a6b9-c6a81bbf4949",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "undefined"
+        }
+      ],
+      "tags": [],
+      "uuid": "2de6f441-703d-4722-8526-cea2babacd0c"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "undefined"
+        }
+      ],
+      "tags": [],
+      "uuid": "4646d22d-97a6-46c7-8617-7c04773f78fe"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "undefined"
+        }
+      ],
+      "tags": [],
+      "uuid": "99beceff-751e-4214-80a8-1b8bc0e7960b"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "undefined"
+        }
+      ],
+      "tags": [],
+      "uuid": "41dc3386-ed19-458e-aa9a-834c11fe3881"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "undefined"
+        }
+      ],
+      "tags": [],
+      "uuid": "a2a2d910-fe60-4e14-98f1-dfbe01ebb260"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "undefined"
+        }
+      ],
+      "tags": [],
+      "uuid": "8094079e-66ab-49d7-b277-c5e46131b7de"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "undefined"
+        }
+      ],
+      "tags": [],
+      "uuid": "803a8b30-f17b-457b-83c1-23faa600667d"
+    }
+  ]
+}

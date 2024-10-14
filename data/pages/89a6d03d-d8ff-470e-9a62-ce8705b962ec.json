@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-10-14T18:18:01.071Z",
+  "created_by": "tanyaclement",
+  "title": "Imported Event 1",
+  "slug": "imported-event-1",
+  "updated_at": "2024-10-14T18:18:01.071Z",
+  "updated_by": "tanyaclement",
+  "parent": "970b5234-255a-4559-8177-2d051c625ed1",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "0994de67-fce9-4c69-8315-bdfa9ee031a9"
+  }
+}

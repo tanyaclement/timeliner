@@ -1,0 +1,25 @@
+{
+  "audiovisual_files": {
+    "888b7c88-d115-443e-a6b9-c6a81bbf4949": {
+      "label": "",
+      "duration": 0
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-10-14T18:18:00.844Z",
+  "created_by": "tanyaclement",
+  "item_type": "Audio",
+  "label": "Imported Event 1",
+  "updated_at": "2024-10-14T18:18:00.844Z",
+  "updated_by": "tanyaclement"
+}
